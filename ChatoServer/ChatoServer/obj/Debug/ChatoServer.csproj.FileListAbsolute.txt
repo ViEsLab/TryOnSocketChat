@@ -1,0 +1,10 @@
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe.config
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\bin\Debug\ChatoServer.exe
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\bin\Debug\ChatoServer.pdb
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csprojAssemblyReference.cache
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.MainForm.resources
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.Properties.Resources.resources
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csproj.GenerateResource.cache
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.csproj.CoreCompileInputs.cache
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.exe
+C:\Users\VhiEld\Desktop\chato-master\ChatoServer\ChatoServer\obj\Debug\ChatoServer.pdb
